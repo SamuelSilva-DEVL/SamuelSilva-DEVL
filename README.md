@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - 🔭 Web development intern 
 - 🌱 Focus on seeking new knowledge
 
-<br>
-
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -33,11 +31,12 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
-<br>
-
 ## ⚙️ &nbsp;GitHub Analytics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSilva-DEVL&layout=compact)
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=SamuelSilva-DEVL&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSilva-DEVL&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p>
 
 ## 📌 &nbsp;Contacts
  
