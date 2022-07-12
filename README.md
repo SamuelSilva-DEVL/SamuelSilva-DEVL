@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 
 <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSilva-DEVL&langs_count=5)](https://github.com/SamuelSilva-DEVL/SamuelSilva-DEVL)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSilva-DEVL&layout=compact)](https://github.com/SamuelSilva-DEVL/SamuelSilva-DEVL)
 
