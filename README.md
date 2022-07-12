@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <img width="410em" src="https://github-readme-stats.vercel.app/api?username=danlmaia&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSilva-DEVL&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danlmaia&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 
 ## 📌 &nbsp;Contacts
