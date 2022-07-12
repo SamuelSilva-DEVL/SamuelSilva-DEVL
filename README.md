@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 Web development intern 
 - 🌱 Focus on seeking new knowledge
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
