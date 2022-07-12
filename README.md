@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Front-end web developer
+- 👨‍💻 Junior Web Developer
+- 🔭 Web development intern 
+- 🌱 Focus on seeking new knowledge
 
 <br><br>
 
