@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👨‍💻 Junior Web Developer
-- 🔭 Web development intern 
+- 🔭 I’m currently working on web pages 
 - 🌱 Focus on seeking new knowledge
 
 ## 🛠 &nbsp;Tech Stack
