@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Samuel Silva
+## Olá 👋, Me chamo Samuel Silva
 
 <!--
 **SamuelSilva-DEVL/SamuelSilva-DEVL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👨‍💻 Junior Web Developer
-- 🔭 I’m currently working on web pages 
-- 🌱 Focus on seeking new knowledge
+- 👨‍💻 Desenvolvedor Web
+- 🔭 Criando Páginas de Alta Qualidade e Desempenho
+- ⚡ Apaixonado por Resolver Desafios
+- 🌱 Em Busca da Excelência Profissional
 
-## 🛠 &nbsp;Tech Stack
+## 💬 Sobre mim
+<p align="start">
+    Desenvolvedor front-end com expertise em React, Next.js, Context API, Bootstrap, JavaScript, TypeScript, CSS3, HTML5, e Sass, focado em desenvolvimento de sites, SEO e manutenção de interfaces. Experiência em projetos web utilizando Figma, Git, ASP.NET MVC, C#, Entity Framework e SQL Server. Domínio de ferramentas como Visual Studio e VS Code, com habilidade em integração de bancos de dados e entrega de soluções eficientes e modernas.
+</p>
+
+## 🛠 &nbsp;Habilidades/Conhecimentos
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -31,16 +37,15 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;Análises do GitHub
 
 <p align="center">
-<img width="410em" src="https://github-readme-stats.vercel.app/api?username=SamuelSilva-DEVL&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSilva-DEVL&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="410em" src="https://github-readme-stats.vercel.app/api?username=SamuelSilva-DEVL&show_icons=true&theme=vision-friendly-dark" alt="samuelsilva's stats"/>
+<img width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSilva-DEVL&layout=compact&theme=vision-friendly-dark" alt="samuelsilva's most languages"/>
 </p>
 
-## 📌 &nbsp;Contacts
+## 📌 &nbsp;Contatos
  
  <a href="https://instagram.com/samuel_silva79" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:samuelmec1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samuel-silva-9449ab211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+  <a href="https://www.linkedin.com/in/samuel-silva-dos-santos-9449ab211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
